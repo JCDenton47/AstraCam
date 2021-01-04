@@ -1,0 +1,2 @@
+D:\CPP_Projects\AstraCam\x64\Debug\AstraCam.exe
+D:\CPP_Projects\AstraCam\x64\Debug\AstraCam.pdb

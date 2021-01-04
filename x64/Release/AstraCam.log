@@ -1,0 +1,57 @@
+﻿  AstraCam.cpp
+D:\CPP_Projects\AstraCam\AstraCam.cpp(84,96): warning C4244: “初始化”: 从“_Rep”转换到“float”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+D:\CPP_Projects\AstraCam\AstraCam.cpp(84,35): warning C4244: “初始化”: 从“_Rep”转换到“const float”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+D:\CPP_Projects\AstraCam\AstraCam.cpp(265,45): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CPP_Projects\AstraCam\AstraCam.cpp(265,34): warning C4244: “初始化”: 从“T”转换到“const int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CPP_Projects\AstraCam\AstraCam.cpp(268,69): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+D:\CPP_Projects\AstraCam\AstraCam.cpp(275,45): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CPP_Projects\AstraCam\AstraCam.cpp(275,34): warning C4244: “初始化”: 从“T”转换到“const int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CPP_Projects\AstraCam\AstraCam.cpp(281,73): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+D:\CPP_Projects\AstraCam\AstraCam.cpp(286,84): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+D:\CPP_Projects\AstraCam\AstraCam.cpp(533,107): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\CPP_Projects\AstraCam\AstraCam.cpp(533,87): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 572 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AstraCam.vcxproj -> D:\CPP_Projects\AstraCam\x64\Release\AstraCam.exe

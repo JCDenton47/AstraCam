@@ -1,2 +1,7 @@
 
 .vs/convexhull/v16/.suo
+
+//visual studio
+*ipch
+*suo
+*db
